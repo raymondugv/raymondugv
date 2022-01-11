@@ -35,9 +35,6 @@
 5. 👍 Approved [#1669](https://github.com/H-I-S-Vietnam/his-discover/pull/1669#pullrequestreview-846232706) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
 <!--RECENT_ACTIVITY:end-->
 
-
-### :zap: Best productivity Time:
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
