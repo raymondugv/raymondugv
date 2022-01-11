@@ -16,7 +16,7 @@
 
 ### Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raymondugv&layout=compact)](https://github.com/raymondugv/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raymondugv&layout=compact&count_private=true)](https://github.com/raymondugv/github-readme-stats)
 
 <br />
 <br />
