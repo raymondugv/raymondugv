@@ -34,3 +34,6 @@
 4. 🎉 Merged PR [#1669](https://github.com/H-I-S-Vietnam/his-discover/pull/1669) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
 5. 👍 Approved [#1669](https://github.com/H-I-S-Vietnam/his-discover/pull/1669#pullrequestreview-846232706) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
 <!--RECENT_ACTIVITY:end-->
+
+### :zap: Listening to:
+[![Spotify](https://raymondugv.vercel.app/api/spotify)](https://open.spotify.com/user/21r7ft4zml7mmteik72lonexq)
