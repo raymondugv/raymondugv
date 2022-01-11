@@ -22,12 +22,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raymondugv&" alt="raymondugv" /></p>
 
----
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/williamlee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="williamlee" /></a></p><br><br>
 
----
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
