@@ -9,10 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="KamKam | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="KamKam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+[<img align="left" alt="KamKam | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][https://www.facebook.com/bonjourimcam/]
+[<img align="left" alt="KamKam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/bonjourimcam/]
 
 ### Languages and Tools:
 
@@ -48,6 +46,3 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondugv&count_private=true)
 
 </details>
-
-[faceboook]: https://www.facebook.com/bonjourimcam/
-[instagram]: https://www.instagram.com/bonjourimcam/
