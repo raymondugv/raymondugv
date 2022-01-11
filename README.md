@@ -36,4 +36,4 @@
 <!--RECENT_ACTIVITY:end-->
 
 ### :zap: Listening to:
-[![Spotify](https://raymondugv.vercel.app/api/spotify)](https://open.spotify.com/user/21r7ft4zml7mmteik72lonexq)
+[![Spotify](https://spotify-kkul5rrlg-raymondugv.vercel.app/api/spotify)](https://open.spotify.com/user/21r7ft4zml7mmteik72lonexq)
