@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [raymondugv/github-readme-stats](https://github.com/raymondugv/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. 🔱 Forked [raymondugv/codeSTACKr](https://github.com/raymondugv/codeSTACKr) from [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. 📔 Created new repository [raymondugv/raymondugv](https://github.com/raymondugv/raymondugv)
-4. 🎉 Merged PR [#1669](https://github.com/H-I-S-Vietnam/his-discover/pull/1669) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-5. 👍 Approved [#1669](https://github.com/H-I-S-Vietnam/his-discover/pull/1669#pullrequestreview-846232706) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+1. ✔️ Closed issue [#12](https://github.com/raymondugv/uptime-monitor/issues/12) in [raymondugv/uptime-monitor](https://github.com/raymondugv/uptime-monitor)
+2. ❗️ Opened issue [#12](https://github.com/raymondugv/uptime-monitor/issues/12) in [raymondugv/uptime-monitor](https://github.com/raymondugv/uptime-monitor)
+3. 🎉 Merged PR [#1683](https://github.com/H-I-S-Vietnam/his-discover/pull/1683) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+4. 👍 Approved [#1683](https://github.com/H-I-S-Vietnam/his-discover/pull/1683#pullrequestreview-852579135) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+5. ⭐ Starred [KamilGrzechulski/SoftCRM](https://github.com/KamilGrzechulski/SoftCRM)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
