@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#12](https://github.com/raymondugv/uptime-monitor/issues/12) in [raymondugv/uptime-monitor](https://github.com/raymondugv/uptime-monitor)
-2. ❗️ Opened issue [#12](https://github.com/raymondugv/uptime-monitor/issues/12) in [raymondugv/uptime-monitor](https://github.com/raymondugv/uptime-monitor)
-3. 🎉 Merged PR [#1683](https://github.com/H-I-S-Vietnam/his-discover/pull/1683) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-4. 👍 Approved [#1683](https://github.com/H-I-S-Vietnam/his-discover/pull/1683#pullrequestreview-852579135) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-5. ⭐ Starred [KamilGrzechulski/SoftCRM](https://github.com/KamilGrzechulski/SoftCRM)
+1. ⭐ Starred [joaotuliojt/portfolio-react](https://github.com/joaotuliojt/portfolio-react)
+2. ⭐ Starred [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme)
+3. 💪 Opened PR [#1873](https://github.com/minbrowser/min/pull/1873) in [minbrowser/min](https://github.com/minbrowser/min)
+4. 🔱 Forked [raymondugv/min](https://github.com/raymondugv/min) from [minbrowser/min](https://github.com/minbrowser/min)
+5. 🎉 Merged PR [#1731](https://github.com/H-I-S-Vietnam/his-discover/pull/1731) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
