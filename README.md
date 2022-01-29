@@ -11,6 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=raymondugv&theme=jolly&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raymondugv&theme=jolly&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raymondugv&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Alt](https://repobeats.axiom.co/api/embed/e1edffd1e06a1cb4ed6abad981f90d8f7bfc16b3.svg "Repobeats analytics image")
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=raymondugv&theme=discord&no-frame=true&no-bg=false&margin-w=4)
