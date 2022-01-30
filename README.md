@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [joaotuliojt/portfolio-react](https://github.com/joaotuliojt/portfolio-react)
-2. ⭐ Starred [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme)
-3. 💪 Opened PR [#1873](https://github.com/minbrowser/min/pull/1873) in [minbrowser/min](https://github.com/minbrowser/min)
-4. 🔱 Forked [raymondugv/min](https://github.com/raymondugv/min) from [minbrowser/min](https://github.com/minbrowser/min)
-5. 🎉 Merged PR [#1731](https://github.com/H-I-S-Vietnam/his-discover/pull/1731) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+1. ⭐ Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)
+2. ⭐ Starred [antonreshetov/image-optimizer](https://github.com/antonreshetov/image-optimizer)
+3. ⭐ Starred [matt-daneshvar/laravel-survey](https://github.com/matt-daneshvar/laravel-survey)
+4. ⭐ Starred [spatie/laravel-tail](https://github.com/spatie/laravel-tail)
+5. ⭐ Starred [cybercog/laravel-ban](https://github.com/cybercog/laravel-ban)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
