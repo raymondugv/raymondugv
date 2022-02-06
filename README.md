@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)
-2. ⭐ Starred [antonreshetov/image-optimizer](https://github.com/antonreshetov/image-optimizer)
-3. ⭐ Starred [matt-daneshvar/laravel-survey](https://github.com/matt-daneshvar/laravel-survey)
-4. ⭐ Starred [spatie/laravel-tail](https://github.com/spatie/laravel-tail)
-5. ⭐ Starred [cybercog/laravel-ban](https://github.com/cybercog/laravel-ban)
+1. ⭐ Starred [JustSteveKing/laravel-feature-flags](https://github.com/JustSteveKing/laravel-feature-flags)
+2. ⭐ Starred [nikolaeu/numi](https://github.com/nikolaeu/numi)
+3. ⭐ Starred [eddiesigner/liebling](https://github.com/eddiesigner/liebling)
+4. ⭐ Starred [imanghafoori1/laravel-widgetize](https://github.com/imanghafoori1/laravel-widgetize)
+5. ⭐ Starred [hovancik/stretchly](https://github.com/hovancik/stretchly)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
