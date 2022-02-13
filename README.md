@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JustSteveKing/laravel-feature-flags](https://github.com/JustSteveKing/laravel-feature-flags)
-2. ⭐ Starred [nikolaeu/numi](https://github.com/nikolaeu/numi)
-3. ⭐ Starred [eddiesigner/liebling](https://github.com/eddiesigner/liebling)
-4. ⭐ Starred [imanghafoori1/laravel-widgetize](https://github.com/imanghafoori1/laravel-widgetize)
-5. ⭐ Starred [hovancik/stretchly](https://github.com/hovancik/stretchly)
+1. ⭐ Starred [saeedvaziry/laravel-monitoring](https://github.com/saeedvaziry/laravel-monitoring)
+2. ⭐ Starred [bluegill/katana](https://github.com/bluegill/katana)
+3. ⭐ Starred [usernotnull/tall-toasts](https://github.com/usernotnull/tall-toasts)
+4. ⭐ Starred [jasonmccreary/laravel-test-assertions](https://github.com/jasonmccreary/laravel-test-assertions)
+5. ⭐ Starred [givebutter/laravel-custom-fields](https://github.com/givebutter/laravel-custom-fields)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
