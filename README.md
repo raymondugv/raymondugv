@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [saeedvaziry/laravel-monitoring](https://github.com/saeedvaziry/laravel-monitoring)
-2. ⭐ Starred [bluegill/katana](https://github.com/bluegill/katana)
-3. ⭐ Starred [usernotnull/tall-toasts](https://github.com/usernotnull/tall-toasts)
-4. ⭐ Starred [jasonmccreary/laravel-test-assertions](https://github.com/jasonmccreary/laravel-test-assertions)
-5. ⭐ Starred [givebutter/laravel-custom-fields](https://github.com/givebutter/laravel-custom-fields)
+1. ⭐ Starred [storyofams/next-password-protect](https://github.com/storyofams/next-password-protect)
+2. ⭐ Starred [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
+3. ⭐ Starred [braze-inc/braze-docs](https://github.com/braze-inc/braze-docs)
+4. 🎉 Merged PR [#1784](https://github.com/H-I-S-Vietnam/his-discover/pull/1784) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+5. 👍 Approved [#1784](https://github.com/H-I-S-Vietnam/his-discover/pull/1784#pullrequestreview-887170990) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
