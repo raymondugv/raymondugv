@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [storyofams/next-password-protect](https://github.com/storyofams/next-password-protect)
-2. ⭐ Starred [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
-3. ⭐ Starred [braze-inc/braze-docs](https://github.com/braze-inc/braze-docs)
-4. 🎉 Merged PR [#1784](https://github.com/H-I-S-Vietnam/his-discover/pull/1784) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-5. 👍 Approved [#1784](https://github.com/H-I-S-Vietnam/his-discover/pull/1784#pullrequestreview-887170990) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+1. ⭐ Starred [spatie/laravel-demo-mode](https://github.com/spatie/laravel-demo-mode)
+2. ⭐ Starred [jrean/laravel-user-verification](https://github.com/jrean/laravel-user-verification)
+3. ⭐ Starred [Treblle/treblle-laravel](https://github.com/Treblle/treblle-laravel)
+4. ⭐ Starred [tighten/laravelversions](https://github.com/tighten/laravelversions)
+5. ⭐ Starred [bpuig/laravel-subby](https://github.com/bpuig/laravel-subby)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
