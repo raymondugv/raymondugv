@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [spatie/laravel-demo-mode](https://github.com/spatie/laravel-demo-mode)
-2. ⭐ Starred [jrean/laravel-user-verification](https://github.com/jrean/laravel-user-verification)
-3. ⭐ Starred [Treblle/treblle-laravel](https://github.com/Treblle/treblle-laravel)
-4. ⭐ Starred [tighten/laravelversions](https://github.com/tighten/laravelversions)
-5. ⭐ Starred [bpuig/laravel-subby](https://github.com/bpuig/laravel-subby)
+1. ⭐ Starred [getcandy/candy-api](https://github.com/getcandy/candy-api)
+2. ⭐ Starred [mohammad-fouladgar/laravel-mobile-verification](https://github.com/mohammad-fouladgar/laravel-mobile-verification)
+3. ⭐ Starred [blade-ui-kit/blade-ui-kit.com](https://github.com/blade-ui-kit/blade-ui-kit.com)
+4. ✔️ Closed issue [#26](https://github.com/raymondugv/uptime-monitor/issues/26) in [raymondugv/uptime-monitor](https://github.com/raymondugv/uptime-monitor)
+5. ❗️ Opened issue [#26](https://github.com/raymondugv/uptime-monitor/issues/26) in [raymondugv/uptime-monitor](https://github.com/raymondugv/uptime-monitor)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
