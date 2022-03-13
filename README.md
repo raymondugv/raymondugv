@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [getcandy/candy-api](https://github.com/getcandy/candy-api)
-2. ⭐ Starred [mohammad-fouladgar/laravel-mobile-verification](https://github.com/mohammad-fouladgar/laravel-mobile-verification)
-3. ⭐ Starred [blade-ui-kit/blade-ui-kit.com](https://github.com/blade-ui-kit/blade-ui-kit.com)
-4. ✔️ Closed issue [#26](https://github.com/raymondugv/uptime-monitor/issues/26) in [raymondugv/uptime-monitor](https://github.com/raymondugv/uptime-monitor)
-5. ❗️ Opened issue [#26](https://github.com/raymondugv/uptime-monitor/issues/26) in [raymondugv/uptime-monitor](https://github.com/raymondugv/uptime-monitor)
+1. ⭐ Starred [spatie/laravel-personal-data-export](https://github.com/spatie/laravel-personal-data-export)
+2. ⭐ Starred [akki-io/laravel-google-analytics](https://github.com/akki-io/laravel-google-analytics)
+3. 🎉 Merged PR [#1814](https://github.com/H-I-S-Vietnam/his-discover/pull/1814) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+4. 👍 Approved [#1814](https://github.com/H-I-S-Vietnam/his-discover/pull/1814#pullrequestreview-906169403) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+5. ⭐ Starred [eduardokum/laravel-mail-auto-embed](https://github.com/eduardokum/laravel-mail-auto-embed)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
