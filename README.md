@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [spatie/laravel-personal-data-export](https://github.com/spatie/laravel-personal-data-export)
-2. ⭐ Starred [akki-io/laravel-google-analytics](https://github.com/akki-io/laravel-google-analytics)
-3. 🎉 Merged PR [#1814](https://github.com/H-I-S-Vietnam/his-discover/pull/1814) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-4. 👍 Approved [#1814](https://github.com/H-I-S-Vietnam/his-discover/pull/1814#pullrequestreview-906169403) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-5. ⭐ Starred [eduardokum/laravel-mail-auto-embed](https://github.com/eduardokum/laravel-mail-auto-embed)
+1. ⭐ Starred [ariscybertech/aris_fltruniverse](https://github.com/ariscybertech/aris_fltruniverse)
+2. ⭐ Starred [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+3. ⭐ Starred [antonioribeiro/countries-laravel](https://github.com/antonioribeiro/countries-laravel)
+4. ⭐ Starred [zuramai/laravel-vue-pos](https://github.com/zuramai/laravel-vue-pos)
+5. ⭐ Starred [DougSisk/laravel-country-state](https://github.com/DougSisk/laravel-country-state)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
