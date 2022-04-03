@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#35](https://github.com/raymondugv/uptime-monitor/issues/35) in [raymondugv/uptime-monitor](https://github.com/raymondugv/uptime-monitor)
-2. ❗️ Opened issue [#35](https://github.com/raymondugv/uptime-monitor/issues/35) in [raymondugv/uptime-monitor](https://github.com/raymondugv/uptime-monitor)
-3. ✔️ Closed issue [#34](https://github.com/raymondugv/uptime-monitor/issues/34) in [raymondugv/uptime-monitor](https://github.com/raymondugv/uptime-monitor)
-4. ❗️ Opened issue [#34](https://github.com/raymondugv/uptime-monitor/issues/34) in [raymondugv/uptime-monitor](https://github.com/raymondugv/uptime-monitor)
-5. ⭐ Starred [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)
+1. 🎉 Merged PR [#1828](https://github.com/H-I-S-Vietnam/his-discover/pull/1828) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+2. 👍 Approved [#1828](https://github.com/H-I-S-Vietnam/his-discover/pull/1828#pullrequestreview-928738904) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+3. 🎉 Merged PR [#1830](https://github.com/H-I-S-Vietnam/his-discover/pull/1830) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+4. 🎉 Merged PR [#1826](https://github.com/H-I-S-Vietnam/his-discover/pull/1826) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+5. 👍 Approved [#1826](https://github.com/H-I-S-Vietnam/his-discover/pull/1826#pullrequestreview-928549033) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
