@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1828](https://github.com/H-I-S-Vietnam/his-discover/pull/1828) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-2. 👍 Approved [#1828](https://github.com/H-I-S-Vietnam/his-discover/pull/1828#pullrequestreview-928738904) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-3. 🎉 Merged PR [#1830](https://github.com/H-I-S-Vietnam/his-discover/pull/1830) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-4. 🎉 Merged PR [#1826](https://github.com/H-I-S-Vietnam/his-discover/pull/1826) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-5. 👍 Approved [#1826](https://github.com/H-I-S-Vietnam/his-discover/pull/1826#pullrequestreview-928549033) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+1. 🎉 Merged PR [#1836](https://github.com/H-I-S-Vietnam/his-discover/pull/1836) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+2. 👍 Approved [#1836](https://github.com/H-I-S-Vietnam/his-discover/pull/1836#pullrequestreview-934651399) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+3. 🎉 Merged PR [#1832](https://github.com/H-I-S-Vietnam/his-discover/pull/1832) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+4. 👍 Approved [#1832](https://github.com/H-I-S-Vietnam/his-discover/pull/1832#pullrequestreview-934485118) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+5. ⭐ Starred [adrianmg/github-pewpew](https://github.com/adrianmg/github-pewpew)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
