@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1836](https://github.com/H-I-S-Vietnam/his-discover/pull/1836) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-2. 👍 Approved [#1836](https://github.com/H-I-S-Vietnam/his-discover/pull/1836#pullrequestreview-934651399) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-3. 🎉 Merged PR [#1832](https://github.com/H-I-S-Vietnam/his-discover/pull/1832) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-4. 👍 Approved [#1832](https://github.com/H-I-S-Vietnam/his-discover/pull/1832#pullrequestreview-934485118) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-5. ⭐ Starred [adrianmg/github-pewpew](https://github.com/adrianmg/github-pewpew)
+1. ⭐ Starred [rafi021/Laravel-Advance-Ecommerce](https://github.com/rafi021/Laravel-Advance-Ecommerce)
+2. ⭐ Starred [lubusIN/laravel-gymie](https://github.com/lubusIN/laravel-gymie)
+3. 🎉 Merged PR [#1843](https://github.com/H-I-S-Vietnam/his-discover/pull/1843) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+4. 👍 Approved [#1843](https://github.com/H-I-S-Vietnam/his-discover/pull/1843#pullrequestreview-942091750) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+5. 🎉 Merged PR [#1842](https://github.com/H-I-S-Vietnam/his-discover/pull/1842) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
