@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1850](https://github.com/H-I-S-Vietnam/his-discover/pull/1850) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-2. 👍 Approved [#1850](https://github.com/H-I-S-Vietnam/his-discover/pull/1850#pullrequestreview-949893546) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-3. 🎉 Merged PR [#1849](https://github.com/H-I-S-Vietnam/his-discover/pull/1849) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-4. 👍 Approved [#1849](https://github.com/H-I-S-Vietnam/his-discover/pull/1849#pullrequestreview-949838588) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-5. ⭐ Starred [clarkeash/doorman](https://github.com/clarkeash/doorman)
+1. 🎉 Merged PR [#1862](https://github.com/H-I-S-Vietnam/his-discover/pull/1862) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+2. 👍 Approved [#1862](https://github.com/H-I-S-Vietnam/his-discover/pull/1862#pullrequestreview-957190605) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+3. 🎉 Merged PR [#1860](https://github.com/H-I-S-Vietnam/his-discover/pull/1860) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+4. 👍 Approved [#1860](https://github.com/H-I-S-Vietnam/his-discover/pull/1860#pullrequestreview-956226342) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+5. 🎉 Merged PR [#1861](https://github.com/H-I-S-Vietnam/his-discover/pull/1861) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
