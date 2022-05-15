@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [laravel/vapor-ui](https://github.com/laravel/vapor-ui)
-2. 🎉 Merged PR [#1863](https://github.com/H-I-S-Vietnam/his-discover/pull/1863) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-3. 👍 Approved [#1863](https://github.com/H-I-S-Vietnam/his-discover/pull/1863#pullrequestreview-962799535) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-4. ⭐ Starred [laravel-notification-channels/google-chat](https://github.com/laravel-notification-channels/google-chat)
-5. ⭐ Starred [spatie/laravel-googletagmanager](https://github.com/spatie/laravel-googletagmanager)
+1. ⭐ Starred [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+2. 💪 Opened PR [#1876](https://github.com/H-I-S-Vietnam/his-discover/pull/1876) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+3. 🎉 Merged PR [#1873](https://github.com/H-I-S-Vietnam/his-discover/pull/1873) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+4. 🎉 Merged PR [#1875](https://github.com/H-I-S-Vietnam/his-discover/pull/1875) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+5. 💪 Opened PR [#1875](https://github.com/H-I-S-Vietnam/his-discover/pull/1875) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
