@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1145](https://github.com/H-I-S-Vietnam/his-discover/pull/1145) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-2. 🎉 Merged PR [#1893](https://github.com/H-I-S-Vietnam/his-discover/pull/1893) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-3. 💪 Opened PR [#1893](https://github.com/H-I-S-Vietnam/his-discover/pull/1893) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-4. ⭐ Starred [roelofjan-elsinga/aloia-cms-website](https://github.com/roelofjan-elsinga/aloia-cms-website)
-5. ⭐ Starred [laravel-notification-channels/onesignal](https://github.com/laravel-notification-channels/onesignal)
+1. ⭐ Starred [bagisto/laravel-pwa](https://github.com/bagisto/laravel-pwa)
+2. ❌ Closed PR [#1145](https://github.com/H-I-S-Vietnam/his-discover/pull/1145) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+3. 🎉 Merged PR [#1893](https://github.com/H-I-S-Vietnam/his-discover/pull/1893) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+4. 💪 Opened PR [#1893](https://github.com/H-I-S-Vietnam/his-discover/pull/1893) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
+5. ⭐ Starred [roelofjan-elsinga/aloia-cms-website](https://github.com/roelofjan-elsinga/aloia-cms-website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
