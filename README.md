@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bagisto/laravel-pwa](https://github.com/bagisto/laravel-pwa)
-2. ❌ Closed PR [#1145](https://github.com/H-I-S-Vietnam/his-discover/pull/1145) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-3. 🎉 Merged PR [#1893](https://github.com/H-I-S-Vietnam/his-discover/pull/1893) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-4. 💪 Opened PR [#1893](https://github.com/H-I-S-Vietnam/his-discover/pull/1893) in [H-I-S-Vietnam/his-discover](https://github.com/H-I-S-Vietnam/his-discover)
-5. ⭐ Starred [roelofjan-elsinga/aloia-cms-website](https://github.com/roelofjan-elsinga/aloia-cms-website)
+1. ⭐ Starred [hassanrazadev/LaravelInventoryWithPOS](https://github.com/hassanrazadev/LaravelInventoryWithPOS)
+2. ⭐ Starred [kawankoding/laravel-fcm](https://github.com/kawankoding/laravel-fcm)
+3. ⭐ Starred [bradcornford/Googlmapper](https://github.com/bradcornford/Googlmapper)
+4. ⭐ Starred [dipenparmar12/POS](https://github.com/dipenparmar12/POS)
+5. ⭐ Starred [GeneaLabs/laravel-maps](https://github.com/GeneaLabs/laravel-maps)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
