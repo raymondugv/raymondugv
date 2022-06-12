@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hassanrazadev/LaravelInventoryWithPOS](https://github.com/hassanrazadev/LaravelInventoryWithPOS)
-2. ⭐ Starred [kawankoding/laravel-fcm](https://github.com/kawankoding/laravel-fcm)
-3. ⭐ Starred [bradcornford/Googlmapper](https://github.com/bradcornford/Googlmapper)
-4. ⭐ Starred [dipenparmar12/POS](https://github.com/dipenparmar12/POS)
-5. ⭐ Starred [GeneaLabs/laravel-maps](https://github.com/GeneaLabs/laravel-maps)
+1. ⭐ Starred [michael-rubel/laravel-couponables](https://github.com/michael-rubel/laravel-couponables)
+2. ⭐ Starred [cztomczak/phpdesktop](https://github.com/cztomczak/phpdesktop)
+3. ⭐ Starred [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+4. ⭐ Starred [hassanrazadev/LaravelInventoryWithPOS](https://github.com/hassanrazadev/LaravelInventoryWithPOS)
+5. ⭐ Starred [kawankoding/laravel-fcm](https://github.com/kawankoding/laravel-fcm)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
