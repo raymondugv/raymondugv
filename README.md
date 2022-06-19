@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [michael-rubel/laravel-couponables](https://github.com/michael-rubel/laravel-couponables)
-2. ⭐ Starred [cztomczak/phpdesktop](https://github.com/cztomczak/phpdesktop)
-3. ⭐ Starred [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
-4. ⭐ Starred [hassanrazadev/LaravelInventoryWithPOS](https://github.com/hassanrazadev/LaravelInventoryWithPOS)
-5. ⭐ Starred [kawankoding/laravel-fcm](https://github.com/kawankoding/laravel-fcm)
+1. ⭐ Starred [ashishrawat2911/flutter_commerce](https://github.com/ashishrawat2911/flutter_commerce)
+2. ⭐ Starred [michael-rubel/laravel-couponables](https://github.com/michael-rubel/laravel-couponables)
+3. ⭐ Starred [cztomczak/phpdesktop](https://github.com/cztomczak/phpdesktop)
+4. ⭐ Starred [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+5. ⭐ Starred [hassanrazadev/LaravelInventoryWithPOS](https://github.com/hassanrazadev/LaravelInventoryWithPOS)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
