@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ashishrawat2911/flutter_commerce](https://github.com/ashishrawat2911/flutter_commerce)
-2. ⭐ Starred [michael-rubel/laravel-couponables](https://github.com/michael-rubel/laravel-couponables)
-3. ⭐ Starred [cztomczak/phpdesktop](https://github.com/cztomczak/phpdesktop)
-4. ⭐ Starred [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
-5. ⭐ Starred [hassanrazadev/LaravelInventoryWithPOS](https://github.com/hassanrazadev/LaravelInventoryWithPOS)
+1. 🎉 Merged PR [#7](https://github.com/CMCWorking/API-Package/pull/7) in [CMCWorking/API-Package](https://github.com/CMCWorking/API-Package)
+2. 💪 Opened PR [#7](https://github.com/CMCWorking/API-Package/pull/7) in [CMCWorking/API-Package](https://github.com/CMCWorking/API-Package)
+3. 🎉 Merged PR [#6](https://github.com/CMCWorking/API-Package/pull/6) in [CMCWorking/API-Package](https://github.com/CMCWorking/API-Package)
+4. 💪 Opened PR [#6](https://github.com/CMCWorking/API-Package/pull/6) in [CMCWorking/API-Package](https://github.com/CMCWorking/API-Package)
+5. 🎉 Merged PR [#5](https://github.com/CMCWorking/API-Package/pull/5) in [CMCWorking/API-Package](https://github.com/CMCWorking/API-Package)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
