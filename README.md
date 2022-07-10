@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#8](https://github.com/CMCWorking/API-Package/pull/8) in [CMCWorking/API-Package](https://github.com/CMCWorking/API-Package)
-2. 💪 Opened PR [#8](https://github.com/CMCWorking/API-Package/pull/8) in [CMCWorking/API-Package](https://github.com/CMCWorking/API-Package)
-3. 🎉 Merged PR [#7](https://github.com/CMCWorking/API-Package/pull/7) in [CMCWorking/API-Package](https://github.com/CMCWorking/API-Package)
-4. 💪 Opened PR [#7](https://github.com/CMCWorking/API-Package/pull/7) in [CMCWorking/API-Package](https://github.com/CMCWorking/API-Package)
-5. 🎉 Merged PR [#6](https://github.com/CMCWorking/API-Package/pull/6) in [CMCWorking/API-Package](https://github.com/CMCWorking/API-Package)
+1. ⭐ Starred [SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel)
+2. ⭐ Starred [symfony/symfony](https://github.com/symfony/symfony)
+3. 🎉 Merged PR [#12](https://github.com/CMCWorking/API-Package/pull/12) in [CMCWorking/API-Package](https://github.com/CMCWorking/API-Package)
+4. 💪 Opened PR [#12](https://github.com/CMCWorking/API-Package/pull/12) in [CMCWorking/API-Package](https://github.com/CMCWorking/API-Package)
+5. 🎉 Merged PR [#11](https://github.com/CMCWorking/API-Package/pull/11) in [CMCWorking/API-Package](https://github.com/CMCWorking/API-Package)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
