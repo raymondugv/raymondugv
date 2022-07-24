@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [CMCWorking/vue-crud](https://github.com/CMCWorking/vue-crud)
-2. ⭐ Starred [SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel)
-3. ⭐ Starred [symfony/symfony](https://github.com/symfony/symfony)
-4. 🎉 Merged PR [#12](https://github.com/CMCWorking/API-Package/pull/12) in [CMCWorking/API-Package](https://github.com/CMCWorking/API-Package)
-5. 💪 Opened PR [#12](https://github.com/CMCWorking/API-Package/pull/12) in [CMCWorking/API-Package](https://github.com/CMCWorking/API-Package)
+1. ⭐ Starred [amaelftah/laravel-trix](https://github.com/amaelftah/laravel-trix)
+2. ⭐ Starred [acapela/clientdb](https://github.com/acapela/clientdb)
+3. 📔 Created new repository [raymondugv/uptime-monitor](https://github.com/raymondugv/uptime-monitor)
+4. 📔 Created new repository [CMCWorking/vue-crud](https://github.com/CMCWorking/vue-crud)
+5. ⭐ Starred [SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
