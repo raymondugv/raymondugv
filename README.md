@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [amaelftah/laravel-trix](https://github.com/amaelftah/laravel-trix)
-2. ⭐ Starred [acapela/clientdb](https://github.com/acapela/clientdb)
-3. 📔 Created new repository [raymondugv/uptime-monitor](https://github.com/raymondugv/uptime-monitor)
-4. 📔 Created new repository [CMCWorking/vue-crud](https://github.com/CMCWorking/vue-crud)
-5. ⭐ Starred [SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel)
+1. ⭐ Starred [tighten/ziggy](https://github.com/tighten/ziggy)
+2. ⭐ Starred [laravel/breeze-next](https://github.com/laravel/breeze-next)
+3. ⭐ Starred [Eugeny/tabby](https://github.com/Eugeny/tabby)
+4. ⭐ Starred [Eugeny/tabby](https://github.com/Eugeny/tabby)
+5. ⭐ Starred [amaelftah/laravel-trix](https://github.com/amaelftah/laravel-trix)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
