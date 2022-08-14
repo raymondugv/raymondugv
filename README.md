@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tighten/ziggy](https://github.com/tighten/ziggy)
-2. ⭐ Starred [laravel/breeze-next](https://github.com/laravel/breeze-next)
-3. ⭐ Starred [Eugeny/tabby](https://github.com/Eugeny/tabby)
-4. ⭐ Starred [Eugeny/tabby](https://github.com/Eugeny/tabby)
-5. ⭐ Starred [amaelftah/laravel-trix](https://github.com/amaelftah/laravel-trix)
+1. ⭐ Starred [ralphjsmit/laravel-seo](https://github.com/ralphjsmit/laravel-seo)
+2. ⭐ Starred [rappasoft/lockout](https://github.com/rappasoft/lockout)
+3. ⭐ Starred [hammerstonedev/fast-paginate](https://github.com/hammerstonedev/fast-paginate)
+4. ⭐ Starred [BinarCode/laravel-restify](https://github.com/BinarCode/laravel-restify)
+5. ⭐ Starred [hongquan/vietnam-personal-id](https://github.com/hongquan/vietnam-personal-id)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
