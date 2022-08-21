@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ralphjsmit/laravel-seo](https://github.com/ralphjsmit/laravel-seo)
-2. ⭐ Starred [rappasoft/lockout](https://github.com/rappasoft/lockout)
-3. ⭐ Starred [hammerstonedev/fast-paginate](https://github.com/hammerstonedev/fast-paginate)
-4. ⭐ Starred [BinarCode/laravel-restify](https://github.com/BinarCode/laravel-restify)
-5. ⭐ Starred [hongquan/vietnam-personal-id](https://github.com/hongquan/vietnam-personal-id)
+1. ⭐ Starred [justboil/admin-one-vue-tailwind](https://github.com/justboil/admin-one-vue-tailwind)
+2. ✌️ Released [v0.2.0](https://github.com/raymondugv/crud-reactjs/releases/tag/v0.2.0) in [raymondugv/crud-reactjs](https://github.com/raymondugv/crud-reactjs)
+3. 🎉 Merged PR [#4](https://github.com/raymondugv/crud-reactjs/pull/4) in [raymondugv/crud-reactjs](https://github.com/raymondugv/crud-reactjs)
+4. 🎉 Merged PR [#5](https://github.com/raymondugv/crud-reactjs/pull/5) in [raymondugv/crud-reactjs](https://github.com/raymondugv/crud-reactjs)
+5. 💪 Opened PR [#4](https://github.com/raymondugv/crud-reactjs/pull/4) in [raymondugv/crud-reactjs](https://github.com/raymondugv/crud-reactjs)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
