@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [justboil/admin-one-vue-tailwind](https://github.com/justboil/admin-one-vue-tailwind)
-2. ✌️ Released [v0.2.0](https://github.com/raymondugv/crud-reactjs/releases/tag/v0.2.0) in [raymondugv/crud-reactjs](https://github.com/raymondugv/crud-reactjs)
-3. 🎉 Merged PR [#4](https://github.com/raymondugv/crud-reactjs/pull/4) in [raymondugv/crud-reactjs](https://github.com/raymondugv/crud-reactjs)
-4. 🎉 Merged PR [#5](https://github.com/raymondugv/crud-reactjs/pull/5) in [raymondugv/crud-reactjs](https://github.com/raymondugv/crud-reactjs)
-5. 💪 Opened PR [#4](https://github.com/raymondugv/crud-reactjs/pull/4) in [raymondugv/crud-reactjs](https://github.com/raymondugv/crud-reactjs)
+1. ⭐ Starred [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)
+2. ⭐ Starred [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+3. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+4. ⭐ Starred [spatie/laravel-fractal](https://github.com/spatie/laravel-fractal)
+5. ✌️ Released [v1.0.0](https://github.com/raymondugv/nodejs-tour-project/releases/tag/v1.0.0) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
