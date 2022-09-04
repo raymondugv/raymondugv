@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)
-2. ⭐ Starred [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-3. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-4. ⭐ Starred [spatie/laravel-fractal](https://github.com/spatie/laravel-fractal)
-5. ✌️ Released [v1.0.0](https://github.com/raymondugv/nodejs-tour-project/releases/tag/v1.0.0) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
+1. ⭐ Starred [opcodesio/log-viewer](https://github.com/opcodesio/log-viewer)
+2. ⭐ Starred [WebDevSimplified/nodejs-user-permissions](https://github.com/WebDevSimplified/nodejs-user-permissions)
+3. ✌️ Released [v1.2.1](https://github.com/raymondugv/nodejs-tour-project/releases/tag/v1.2.1) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
+4. 🎉 Merged PR [#1](https://github.com/raymondugv/nodejs-tour-project/pull/1) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
+5. 🎉 Merged PR [#2](https://github.com/raymondugv/nodejs-tour-project/pull/2) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
