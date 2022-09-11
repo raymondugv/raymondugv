@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [opcodesio/log-viewer](https://github.com/opcodesio/log-viewer)
-2. ⭐ Starred [WebDevSimplified/nodejs-user-permissions](https://github.com/WebDevSimplified/nodejs-user-permissions)
-3. ✌️ Released [v1.2.1](https://github.com/raymondugv/nodejs-tour-project/releases/tag/v1.2.1) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
-4. 🎉 Merged PR [#1](https://github.com/raymondugv/nodejs-tour-project/pull/1) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
-5. 🎉 Merged PR [#2](https://github.com/raymondugv/nodejs-tour-project/pull/2) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
+1. ❌ Closed PR [#3](https://github.com/raymondugv/nodejs-tour-project/pull/3) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
+2. 🎉 Merged PR [#6](https://github.com/raymondugv/nodejs-tour-project/pull/6) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
+3. ✌️ Released [v1.3.0](https://github.com/raymondugv/nodejs-tour-project/releases/tag/v1.3.0) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
+4. 🎉 Merged PR [#5](https://github.com/raymondugv/nodejs-tour-project/pull/5) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
+5. 🎉 Merged PR [#4](https://github.com/raymondugv/nodejs-tour-project/pull/4) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
