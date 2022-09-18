@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#3](https://github.com/raymondugv/nodejs-tour-project/pull/3) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
-2. 🎉 Merged PR [#6](https://github.com/raymondugv/nodejs-tour-project/pull/6) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
-3. ✌️ Released [v1.3.0](https://github.com/raymondugv/nodejs-tour-project/releases/tag/v1.3.0) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
-4. 🎉 Merged PR [#5](https://github.com/raymondugv/nodejs-tour-project/pull/5) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
-5. 🎉 Merged PR [#4](https://github.com/raymondugv/nodejs-tour-project/pull/4) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
+1. 🔱 Forked [raymondugv/laravel-api-key](https://github.com/raymondugv/laravel-api-key) from [ejarnutowski/laravel-api-key](https://github.com/ejarnutowski/laravel-api-key)
+2. ❌ Closed PR [#3](https://github.com/raymondugv/nodejs-tour-project/pull/3) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
+3. 🎉 Merged PR [#6](https://github.com/raymondugv/nodejs-tour-project/pull/6) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
+4. ✌️ Released [v1.3.0](https://github.com/raymondugv/nodejs-tour-project/releases/tag/v1.3.0) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
+5. 🎉 Merged PR [#5](https://github.com/raymondugv/nodejs-tour-project/pull/5) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
