@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#20](https://github.com/raymondugv/nodejs-tour-project/issues/20) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
-2. ❗️ Opened issue [#19](https://github.com/raymondugv/nodejs-tour-project/issues/19) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
-3. 🎉 Merged PR [#18](https://github.com/raymondugv/nodejs-tour-project/pull/18) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
-4. 💪 Opened PR [#18](https://github.com/raymondugv/nodejs-tour-project/pull/18) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
-5. 🎉 Merged PR [#17](https://github.com/raymondugv/nodejs-tour-project/pull/17) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
+1. 🎉 Merged PR [#24](https://github.com/raymondugv/nodejs-tour-project/pull/24) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
+2. 🎉 Merged PR [#25](https://github.com/raymondugv/nodejs-tour-project/pull/25) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
+3. 💪 Opened PR [#24](https://github.com/raymondugv/nodejs-tour-project/pull/24) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
+4. 🎉 Merged PR [#22](https://github.com/raymondugv/nodejs-tour-project/pull/22) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
+5. 🎉 Merged PR [#21](https://github.com/raymondugv/nodejs-tour-project/pull/21) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
