@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)
-2. ⭐ Starred [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder)
-3. ⭐ Starred [Lecturize/Laravel-Addresses](https://github.com/Lecturize/Laravel-Addresses)
-4. 🎉 Merged PR [#24](https://github.com/raymondugv/nodejs-tour-project/pull/24) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
-5. 🎉 Merged PR [#25](https://github.com/raymondugv/nodejs-tour-project/pull/25) in [raymondugv/nodejs-tour-project](https://github.com/raymondugv/nodejs-tour-project)
+1. ⭐ Starred [laravel-workflow/waterline](https://github.com/laravel-workflow/waterline)
+2. ⭐ Starred [barryvdh/laravel-omnipay](https://github.com/barryvdh/laravel-omnipay)
+3. ⭐ Starred [malhal/Laravel-Geographical](https://github.com/malhal/Laravel-Geographical)
+4. ⭐ Starred [fbrill/react-page-transitions](https://github.com/fbrill/react-page-transitions)
+5. ⭐ Starred [munafio/chatify](https://github.com/munafio/chatify)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
