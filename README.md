@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [qcod/laravel-settings](https://github.com/qcod/laravel-settings)
-2. ⭐ Starred [Timonwa/Using-blurDataUrl-in-NextJs](https://github.com/Timonwa/Using-blurDataUrl-in-NextJs)
-3. ⭐ Starred [laravel-workflow/waterline](https://github.com/laravel-workflow/waterline)
-4. ⭐ Starred [barryvdh/laravel-omnipay](https://github.com/barryvdh/laravel-omnipay)
-5. ⭐ Starred [malhal/Laravel-Geographical](https://github.com/malhal/Laravel-Geographical)
+1. ⭐ Starred [kirilkirkov/Ecommerce-Laravel-Bootstrap](https://github.com/kirilkirkov/Ecommerce-Laravel-Bootstrap)
+2. ⭐ Starred [qcod/laravel-settings](https://github.com/qcod/laravel-settings)
+3. ⭐ Starred [Timonwa/Using-blurDataUrl-in-NextJs](https://github.com/Timonwa/Using-blurDataUrl-in-NextJs)
+4. ⭐ Starred [laravel-workflow/waterline](https://github.com/laravel-workflow/waterline)
+5. ⭐ Starred [barryvdh/laravel-omnipay](https://github.com/barryvdh/laravel-omnipay)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
