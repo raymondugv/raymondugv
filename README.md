@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Siumauricio/nextui-dashboard-template](https://github.com/Siumauricio/nextui-dashboard-template)
-2. ⭐ Starred [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui)
-3. ⭐ Starred [mamun724682/Inventory-Management-System-Laravel-SPA](https://github.com/mamun724682/Inventory-Management-System-Laravel-SPA)
-4. ⭐ Starred [kirilkirkov/Ecommerce-Laravel-Bootstrap](https://github.com/kirilkirkov/Ecommerce-Laravel-Bootstrap)
-5. ⭐ Starred [qcod/laravel-settings](https://github.com/qcod/laravel-settings)
+1. ⭐ Starred [icsharpcode/SharpZipLib](https://github.com/icsharpcode/SharpZipLib)
+2. ⭐ Starred [Siumauricio/nextui-dashboard-template](https://github.com/Siumauricio/nextui-dashboard-template)
+3. ⭐ Starred [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui)
+4. ⭐ Starred [mamun724682/Inventory-Management-System-Laravel-SPA](https://github.com/mamun724682/Inventory-Management-System-Laravel-SPA)
+5. ⭐ Starred [kirilkirkov/Ecommerce-Laravel-Bootstrap](https://github.com/kirilkirkov/Ecommerce-Laravel-Bootstrap)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
