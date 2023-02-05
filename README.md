@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [derekcodes-io/turnstile-laravel](https://github.com/derekcodes-io/turnstile-laravel)
-2. ⭐ Starred [icsharpcode/SharpZipLib](https://github.com/icsharpcode/SharpZipLib)
-3. ⭐ Starred [Siumauricio/nextui-dashboard-template](https://github.com/Siumauricio/nextui-dashboard-template)
-4. ⭐ Starred [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui)
-5. ⭐ Starred [mamun724682/Inventory-Management-System-Laravel-SPA](https://github.com/mamun724682/Inventory-Management-System-Laravel-SPA)
+1. ⭐ Starred [cviebrock/sequel-pro-laravel-export](https://github.com/cviebrock/sequel-pro-laravel-export)
+2. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)
+3. ⭐ Starred [derekcodes-io/turnstile-laravel](https://github.com/derekcodes-io/turnstile-laravel)
+4. ⭐ Starred [icsharpcode/SharpZipLib](https://github.com/icsharpcode/SharpZipLib)
+5. ⭐ Starred [Siumauricio/nextui-dashboard-template](https://github.com/Siumauricio/nextui-dashboard-template)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
