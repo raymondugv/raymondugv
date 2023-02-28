@@ -35,8 +35,5 @@
 5. ⭐ Starred [Siumauricio/nextui-dashboard-template](https://github.com/Siumauricio/nextui-dashboard-template)
 <!--RECENT_ACTIVITY:end-->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ### :zap: Listening to:
 [![Spotify](https://spotify-kkul5rrlg-raymondugv.vercel.app/api/spotify)](https://open.spotify.com/user/21r7ft4zml7mmteik72lonexq)
