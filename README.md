@@ -34,6 +34,3 @@
 4. ⬆️ Pushed 1 commit(s) to [raymondugv/raymondugv](https://github.com/raymondugv/raymondugv)<br>
 5. ⬆️ Pushed 2 commit(s) to [raymondugv/raymondugv](https://github.com/raymondugv/raymondugv)<br>
 <!--RECENT_ACTIVITY:end-->
-
-### :zap: Listening to:
-[![Spotify](https://spotify-kkul5rrlg-raymondugv.vercel.app/api/spotify)](https://open.spotify.com/user/21r7ft4zml7mmteik72lonexq)
