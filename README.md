@@ -28,11 +28,11 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cviebrock/sequel-pro-laravel-export](https://github.com/cviebrock/sequel-pro-laravel-export)
-2. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)
-3. ⭐ Starred [derekcodes-io/turnstile-laravel](https://github.com/derekcodes-io/turnstile-laravel)
-4. ⭐ Starred [icsharpcode/SharpZipLib](https://github.com/icsharpcode/SharpZipLib)
-5. ⭐ Starred [Siumauricio/nextui-dashboard-template](https://github.com/Siumauricio/nextui-dashboard-template)
+1. ⬆️ Pushed 2 commit(s) to [raymondugv/raymondugv](https://github.com/raymondugv/raymondugv)<br>
+2. 🎉 Merged PR [#3](https://github.com/raymondugv/raymondugv/pull/3) in [raymondugv/raymondugv](https://github.com/raymondugv/raymondugv)<br>
+3. 💪 Opened PR [#3](https://github.com/raymondugv/raymondugv/pull/3) in [raymondugv/raymondugv](https://github.com/raymondugv/raymondugv)<br>
+4. ⬆️ Pushed 1 commit(s) to [raymondugv/raymondugv](https://github.com/raymondugv/raymondugv)<br>
+5. ⬆️ Pushed 2 commit(s) to [raymondugv/raymondugv](https://github.com/raymondugv/raymondugv)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :zap: Listening to:
