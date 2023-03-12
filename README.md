@@ -28,9 +28,9 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [raymondugv/raymondugv](https://github.com/raymondugv/raymondugv)<br>
-2. ⬆️ Pushed 2 commit(s) to [raymondugv/raymondugv](https://github.com/raymondugv/raymondugv)<br>
-3. 🎉 Merged PR [#3](https://github.com/raymondugv/raymondugv/pull/3) in [raymondugv/raymondugv](https://github.com/raymondugv/raymondugv)<br>
-4. 💪 Opened PR [#3](https://github.com/raymondugv/raymondugv/pull/3) in [raymondugv/raymondugv](https://github.com/raymondugv/raymondugv)<br>
-5. ⬆️ Pushed 1 commit(s) to [raymondugv/raymondugv](https://github.com/raymondugv/raymondugv)<br>
+1. ⭐ Starred [Weble/laravel-ecommerce](https://github.com/Weble/laravel-ecommerce)<br>
+2. ⭐ Starred [kirilkirkov/Electronic-Invoicing-And-Warehouse-Management-System](https://github.com/kirilkirkov/Electronic-Invoicing-And-Warehouse-Management-System)<br>
+3. ⭐ Starred [lukepolo/laracart](https://github.com/lukepolo/laracart)<br>
+4. ⭐ Starred [RayhanZaman333/laravel-inventory-pos-system](https://github.com/RayhanZaman333/laravel-inventory-pos-system)<br>
+5. ⭐ Starred [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps)<br>
 <!--RECENT_ACTIVITY:end-->
