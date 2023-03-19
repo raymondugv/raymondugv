@@ -28,9 +28,9 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Weble/laravel-ecommerce](https://github.com/Weble/laravel-ecommerce)<br>
-2. ⭐ Starred [kirilkirkov/Electronic-Invoicing-And-Warehouse-Management-System](https://github.com/kirilkirkov/Electronic-Invoicing-And-Warehouse-Management-System)<br>
-3. ⭐ Starred [lukepolo/laracart](https://github.com/lukepolo/laracart)<br>
-4. ⭐ Starred [RayhanZaman333/laravel-inventory-pos-system](https://github.com/RayhanZaman333/laravel-inventory-pos-system)<br>
-5. ⭐ Starred [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps)<br>
+1. ⭐ Starred [MeesyBE/Shopavel](https://github.com/MeesyBE/Shopavel)<br>
+2. ⭐ Starred [designatedcoder/coders_shop](https://github.com/designatedcoder/coders_shop)<br>
+3. ⬆️ Pushed 9 commit(s) to [raymondugv/uptime-kuma](https://github.com/raymondugv/uptime-kuma)<br>
+4. 🎉 Merged PR [#3](https://github.com/raymondugv/uptime-kuma/pull/3) in [raymondugv/uptime-kuma](https://github.com/raymondugv/uptime-kuma)<br>
+5. ⬆️ Pushed 3 commit(s) to [raymondugv/uptime-kuma](https://github.com/raymondugv/uptime-kuma)<br>
 <!--RECENT_ACTIVITY:end-->
