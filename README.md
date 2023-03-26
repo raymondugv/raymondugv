@@ -28,9 +28,9 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MeesyBE/Shopavel](https://github.com/MeesyBE/Shopavel)<br>
-2. ⭐ Starred [designatedcoder/coders_shop](https://github.com/designatedcoder/coders_shop)<br>
-3. ⬆️ Pushed 9 commit(s) to [raymondugv/uptime-kuma](https://github.com/raymondugv/uptime-kuma)<br>
-4. 🎉 Merged PR [#3](https://github.com/raymondugv/uptime-kuma/pull/3) in [raymondugv/uptime-kuma](https://github.com/raymondugv/uptime-kuma)<br>
-5. ⬆️ Pushed 3 commit(s) to [raymondugv/uptime-kuma](https://github.com/raymondugv/uptime-kuma)<br>
+1. ⭐ Starred [tw93/Pake](https://github.com/tw93/Pake)<br>
+2. ⭐ Starred [lencx/ChatGPT](https://github.com/lencx/ChatGPT)<br>
+3. ⭐ Starred [kutia-software-company/larafirebase](https://github.com/kutia-software-company/larafirebase)<br>
+4. ⭐ Starred [MeesyBE/Shopavel](https://github.com/MeesyBE/Shopavel)<br>
+5. ⭐ Starred [designatedcoder/coders_shop](https://github.com/designatedcoder/coders_shop)<br>
 <!--RECENT_ACTIVITY:end-->
