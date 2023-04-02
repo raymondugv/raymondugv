@@ -28,9 +28,9 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tw93/Pake](https://github.com/tw93/Pake)<br>
-2. ⭐ Starred [lencx/ChatGPT](https://github.com/lencx/ChatGPT)<br>
-3. ⭐ Starred [kutia-software-company/larafirebase](https://github.com/kutia-software-company/larafirebase)<br>
-4. ⭐ Starred [MeesyBE/Shopavel](https://github.com/MeesyBE/Shopavel)<br>
-5. ⭐ Starred [designatedcoder/coders_shop](https://github.com/designatedcoder/coders_shop)<br>
+1. ⭐ Starred [irabbi360/laravel-vue3-spa-starter](https://github.com/irabbi360/laravel-vue3-spa-starter)<br>
+2. ⭐ Starred [tw93/Pake](https://github.com/tw93/Pake)<br>
+3. ⭐ Starred [lencx/ChatGPT](https://github.com/lencx/ChatGPT)<br>
+4. ⭐ Starred [kutia-software-company/larafirebase](https://github.com/kutia-software-company/larafirebase)<br>
+5. ⭐ Starred [MeesyBE/Shopavel](https://github.com/MeesyBE/Shopavel)<br>
 <!--RECENT_ACTIVITY:end-->
