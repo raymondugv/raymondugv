@@ -28,9 +28,9 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [abuanwar072/Flutter-Responsive-UI](https://github.com/abuanwar072/Flutter-Responsive-UI)<br>
-2. ⭐ Starred [irabbi360/laravel-vue3-spa-starter](https://github.com/irabbi360/laravel-vue3-spa-starter)<br>
-3. ⭐ Starred [tw93/Pake](https://github.com/tw93/Pake)<br>
-4. ⭐ Starred [lencx/ChatGPT](https://github.com/lencx/ChatGPT)<br>
-5. ⭐ Starred [kutia-software-company/larafirebase](https://github.com/kutia-software-company/larafirebase)<br>
+1. ⭐ Starred [alijumaan/laravel-ecommerce](https://github.com/alijumaan/laravel-ecommerce)<br>
+2. ⭐ Starred [codedge/laravel-fpdf](https://github.com/codedge/laravel-fpdf)<br>
+3. ⭐ Starred [davibennun/laravel-push-notification](https://github.com/davibennun/laravel-push-notification)<br>
+4. ⭐ Starred [aldistate/laravel-9-ecommerce](https://github.com/aldistate/laravel-9-ecommerce)<br>
+5. ⭐ Starred [abuanwar072/Flutter-Responsive-UI](https://github.com/abuanwar072/Flutter-Responsive-UI)<br>
 <!--RECENT_ACTIVITY:end-->
