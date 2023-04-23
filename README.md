@@ -28,9 +28,9 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [alijumaan/laravel-ecommerce](https://github.com/alijumaan/laravel-ecommerce)<br>
-2. ⭐ Starred [codedge/laravel-fpdf](https://github.com/codedge/laravel-fpdf)<br>
-3. ⭐ Starred [davibennun/laravel-push-notification](https://github.com/davibennun/laravel-push-notification)<br>
-4. ⭐ Starred [aldistate/laravel-9-ecommerce](https://github.com/aldistate/laravel-9-ecommerce)<br>
-5. ⭐ Starred [abuanwar072/Flutter-Responsive-UI](https://github.com/abuanwar072/Flutter-Responsive-UI)<br>
+1. ⭐ Starred [muhammadhabibfery/laracommerce-api](https://github.com/muhammadhabibfery/laracommerce-api)<br>
+2. ⭐ Starred [spatie/laravel-site-search](https://github.com/spatie/laravel-site-search)<br>
+3. ⭐ Starred [harshit2996/Appointment-Booking-System](https://github.com/harshit2996/Appointment-Booking-System)<br>
+4. ⭐ Starred [alijumaan/laravel-ecommerce](https://github.com/alijumaan/laravel-ecommerce)<br>
+5. ⭐ Starred [codedge/laravel-fpdf](https://github.com/codedge/laravel-fpdf)<br>
 <!--RECENT_ACTIVITY:end-->
