@@ -28,9 +28,9 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [muhammadhabibfery/laracommerce-api](https://github.com/muhammadhabibfery/laracommerce-api)<br>
-2. ⭐ Starred [spatie/laravel-site-search](https://github.com/spatie/laravel-site-search)<br>
-3. ⭐ Starred [harshit2996/Appointment-Booking-System](https://github.com/harshit2996/Appointment-Booking-System)<br>
-4. ⭐ Starred [alijumaan/laravel-ecommerce](https://github.com/alijumaan/laravel-ecommerce)<br>
-5. ⭐ Starred [codedge/laravel-fpdf](https://github.com/codedge/laravel-fpdf)<br>
+1. ⬆️ Pushed 251 commit(s) to [raymondugv/uptime-kuma](https://github.com/raymondugv/uptime-kuma)<br>
+2. 🎉 Merged PR [#5](https://github.com/raymondugv/uptime-kuma/pull/5) in [raymondugv/uptime-kuma](https://github.com/raymondugv/uptime-kuma)<br>
+3. ⬆️ Pushed 7 commit(s) to [raymondugv/uptime-kuma](https://github.com/raymondugv/uptime-kuma)<br>
+4. 🎉 Merged PR [#7](https://github.com/raymondugv/uptime-kuma/pull/7) in [raymondugv/uptime-kuma](https://github.com/raymondugv/uptime-kuma)<br>
+5. ⬆️ Pushed 8 commit(s) to [raymondugv/uptime-kuma](https://github.com/raymondugv/uptime-kuma)<br>
 <!--RECENT_ACTIVITY:end-->
