@@ -28,9 +28,9 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [raymondugv/laravel-task11](https://github.com/raymondugv/laravel-task11)<br>
-2. ⬆️ Pushed 1 commit(s) to [raymondugv/laravel-task11](https://github.com/raymondugv/laravel-task11)<br>
-3. ⬆️ Pushed 4 commit(s) to [raymondugv/laravel-task11](https://github.com/raymondugv/laravel-task11)<br>
+1. ⭐ Starred [abdulaziz-m5u/laravel-pos-app](https://github.com/abdulaziz-m5u/laravel-pos-app)<br>
+2. ⭐ Starred [MohmmedAshraf/laravel-translations](https://github.com/MohmmedAshraf/laravel-translations)<br>
+3. ⬆️ Pushed 3 commit(s) to [raymondugv/laravel-task11](https://github.com/raymondugv/laravel-task11)<br>
 4. ⬆️ Pushed 1 commit(s) to [raymondugv/laravel-task11](https://github.com/raymondugv/laravel-task11)<br>
-5. ⬆️ Pushed 1 commit(s) to [raymondugv/laravel-task11](https://github.com/raymondugv/laravel-task11)<br>
+5. ⬆️ Pushed 4 commit(s) to [raymondugv/laravel-task11](https://github.com/raymondugv/laravel-task11)<br>
 <!--RECENT_ACTIVITY:end-->
