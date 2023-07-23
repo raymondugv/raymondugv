@@ -28,9 +28,9 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Mekaeil/LaravelUserManagement](https://github.com/Mekaeil/LaravelUserManagement)<br>
-2. ⭐ Starred [benmoumene/Pharmacy-management-system-laravel](https://github.com/benmoumene/Pharmacy-management-system-laravel)<br>
-3. ⭐ Starred [ralphjsmit/laravel-filament-seo](https://github.com/ralphjsmit/laravel-filament-seo)<br>
-4. ⭐ Starred [maaslalani/invoice](https://github.com/maaslalani/invoice)<br>
-5. ⭐ Starred [abdulaziz-m5u/laravel-pos-app](https://github.com/abdulaziz-m5u/laravel-pos-app)<br>
+1. ⭐ Starred [surfsidemedia/Laravel-8-E-Commerce](https://github.com/surfsidemedia/Laravel-8-E-Commerce)<br>
+2. ⭐ Starred [aliqasemzadeh/bap](https://github.com/aliqasemzadeh/bap)<br>
+3. ⭐ Starred [Xammie/mailbook](https://github.com/Xammie/mailbook)<br>
+4. ⭐ Starred [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)<br>
+5. ⭐ Starred [Mekaeil/LaravelUserManagement](https://github.com/Mekaeil/LaravelUserManagement)<br>
 <!--RECENT_ACTIVITY:end-->
