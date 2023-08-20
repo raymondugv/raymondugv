@@ -28,9 +28,9 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [surfsidemedia/Laravel-8-E-Commerce](https://github.com/surfsidemedia/Laravel-8-E-Commerce)<br>
-2. ⭐ Starred [aliqasemzadeh/bap](https://github.com/aliqasemzadeh/bap)<br>
-3. ⭐ Starred [Xammie/mailbook](https://github.com/Xammie/mailbook)<br>
-4. ⭐ Starred [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)<br>
-5. ⭐ Starred [Mekaeil/LaravelUserManagement](https://github.com/Mekaeil/LaravelUserManagement)<br>
+1. ⭐ Starred [Samir-Gamal/hospital-management-system](https://github.com/Samir-Gamal/hospital-management-system)<br>
+2. ⭐ Starred [openaivn/oav-chatbox](https://github.com/openaivn/oav-chatbox)<br>
+3. ⭐ Starred [djurovicigoor/lara-files](https://github.com/djurovicigoor/lara-files)<br>
+4. ⭐ Starred [khalidabuhakmeh/aspnetcore-vuecomponents](https://github.com/khalidabuhakmeh/aspnetcore-vuecomponents)<br>
+5. ⭐ Starred [surfsidemedia/Laravel-8-E-Commerce](https://github.com/surfsidemedia/Laravel-8-E-Commerce)<br>
 <!--RECENT_ACTIVITY:end-->
