@@ -28,9 +28,9 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [abdelmjid-saber/SpladePanel](https://github.com/abdelmjid-saber/SpladePanel)<br>
-2. ⭐ Starred [Samir-Gamal/hospital-management-system](https://github.com/Samir-Gamal/hospital-management-system)<br>
-3. ⭐ Starred [openaivn/oav-chatbox](https://github.com/openaivn/oav-chatbox)<br>
-4. ⭐ Starred [djurovicigoor/lara-files](https://github.com/djurovicigoor/lara-files)<br>
-5. ⭐ Starred [khalidabuhakmeh/aspnetcore-vuecomponents](https://github.com/khalidabuhakmeh/aspnetcore-vuecomponents)<br>
+1. ⭐ Starred [tabler/tabler](https://github.com/tabler/tabler)<br>
+2. ⭐ Starred [nguyenary/VietnamAddressAPI](https://github.com/nguyenary/VietnamAddressAPI)<br>
+3. ⭐ Starred [noamr/use-view-transitions](https://github.com/noamr/use-view-transitions)<br>
+4. ⭐ Starred [abdelmjid-saber/SpladePanel](https://github.com/abdelmjid-saber/SpladePanel)<br>
+5. ⭐ Starred [Samir-Gamal/hospital-management-system](https://github.com/Samir-Gamal/hospital-management-system)<br>
 <!--RECENT_ACTIVITY:end-->
