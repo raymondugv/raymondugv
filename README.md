@@ -28,9 +28,9 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [FakeFiller/fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension)<br>
-2. ⭐ Starred [spatie/laravel-uptime-monitor](https://github.com/spatie/laravel-uptime-monitor)<br>
-3. ⭐ Starred [tabler/tabler](https://github.com/tabler/tabler)<br>
-4. ⭐ Starred [nguyenary/VietnamAddressAPI](https://github.com/nguyenary/VietnamAddressAPI)<br>
-5. ⭐ Starred [noamr/use-view-transitions](https://github.com/noamr/use-view-transitions)<br>
+1. ⭐ Starred [romanzipp/Laravel-Turnstile](https://github.com/romanzipp/Laravel-Turnstile)<br>
+2. ⭐ Starred [thedevdojo/genesis](https://github.com/thedevdojo/genesis)<br>
+3. ⭐ Starred [FakeFiller/fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension)<br>
+4. ⭐ Starred [spatie/laravel-uptime-monitor](https://github.com/spatie/laravel-uptime-monitor)<br>
+5. ⭐ Starred [tabler/tabler](https://github.com/tabler/tabler)<br>
 <!--RECENT_ACTIVITY:end-->
