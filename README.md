@@ -28,9 +28,9 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [romanzipp/Laravel-Turnstile](https://github.com/romanzipp/Laravel-Turnstile)<br>
-2. ⭐ Starred [thedevdojo/genesis](https://github.com/thedevdojo/genesis)<br>
-3. ⭐ Starred [FakeFiller/fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension)<br>
-4. ⭐ Starred [spatie/laravel-uptime-monitor](https://github.com/spatie/laravel-uptime-monitor)<br>
-5. ⭐ Starred [tabler/tabler](https://github.com/tabler/tabler)<br>
+1. ⭐ Starred [livewire/livewire](https://github.com/livewire/livewire)<br>
+2. ⭐ Starred [romanzipp/Laravel-Turnstile](https://github.com/romanzipp/Laravel-Turnstile)<br>
+3. ⭐ Starred [thedevdojo/genesis](https://github.com/thedevdojo/genesis)<br>
+4. ⭐ Starred [FakeFiller/fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension)<br>
+5. ⭐ Starred [spatie/laravel-uptime-monitor](https://github.com/spatie/laravel-uptime-monitor)<br>
 <!--RECENT_ACTIVITY:end-->
