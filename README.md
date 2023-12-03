@@ -28,9 +28,9 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
-2. ⭐ Starred [livewire/livewire](https://github.com/livewire/livewire)<br>
-3. ⭐ Starred [romanzipp/Laravel-Turnstile](https://github.com/romanzipp/Laravel-Turnstile)<br>
-4. ⭐ Starred [thedevdojo/genesis](https://github.com/thedevdojo/genesis)<br>
-5. ⭐ Starred [FakeFiller/fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension)<br>
+1. 📔 Created new repository [raymondugv/symfony_example](https://github.com/raymondugv/symfony_example)<br>
+2. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
+3. ⭐ Starred [livewire/livewire](https://github.com/livewire/livewire)<br>
+4. ⭐ Starred [romanzipp/Laravel-Turnstile](https://github.com/romanzipp/Laravel-Turnstile)<br>
+5. ⭐ Starred [thedevdojo/genesis](https://github.com/thedevdojo/genesis)<br>
 <!--RECENT_ACTIVITY:end-->
