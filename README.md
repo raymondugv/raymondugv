@@ -32,5 +32,4 @@
 2. 📔 Created new repository [raymondugv/symfony_example](https://github.com/raymondugv/symfony_example)<br>
 3. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
 4. ⭐ Starred [livewire/livewire](https://github.com/livewire/livewire)<br>
-5. ⭐ Starred [romanzipp/Laravel-Turnstile](https://github.com/romanzipp/Laravel-Turnstile)<br>
 <!--RECENT_ACTIVITY:end-->
