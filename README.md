@@ -28,8 +28,9 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tobischulz/laravel-vue-spa-boilerplate](https://github.com/tobischulz/laravel-vue-spa-boilerplate)<br>
-2. 📔 Created new repository [raymondugv/symfony_example](https://github.com/raymondugv/symfony_example)<br>
-3. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
-4. ⭐ Starred [livewire/livewire](https://github.com/livewire/livewire)<br>
+1. ⭐ Starred [serversideup/spin](https://github.com/serversideup/spin)<br>
+2. ⭐ Starred [tobischulz/laravel-vue-spa-boilerplate](https://github.com/tobischulz/laravel-vue-spa-boilerplate)<br>
+3. 📔 Created new repository [raymondugv/symfony_example](https://github.com/raymondugv/symfony_example)<br>
+4. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
+5. ⭐ Starred [livewire/livewire](https://github.com/livewire/livewire)<br>
 <!--RECENT_ACTIVITY:end-->
