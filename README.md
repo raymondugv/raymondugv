@@ -31,5 +31,4 @@
 1. ⭐ Starred [serversideup/spin](https://github.com/serversideup/spin)<br>
 2. ⭐ Starred [tobischulz/laravel-vue-spa-boilerplate](https://github.com/tobischulz/laravel-vue-spa-boilerplate)<br>
 3. 📔 Created new repository [raymondugv/symfony_example](https://github.com/raymondugv/symfony_example)<br>
-4. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
 <!--RECENT_ACTIVITY:end-->
