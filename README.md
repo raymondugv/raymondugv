@@ -28,6 +28,7 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [serversideup/spin](https://github.com/serversideup/spin)<br>
-2. ⭐ Starred [tobischulz/laravel-vue-spa-boilerplate](https://github.com/tobischulz/laravel-vue-spa-boilerplate)<br>
+1. ⭐ Starred [SimpleSoftwareIO/simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode)<br>
+2. ⭐ Starred [serversideup/spin](https://github.com/serversideup/spin)<br>
+3. ⭐ Starred [tobischulz/laravel-vue-spa-boilerplate](https://github.com/tobischulz/laravel-vue-spa-boilerplate)<br>
 <!--RECENT_ACTIVITY:end-->
