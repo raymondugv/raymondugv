@@ -31,5 +31,4 @@
 1. ⭐ Starred [aungwinthant/apilogger](https://github.com/aungwinthant/apilogger)<br>
 2. ⭐ Starred [SimpleSoftwareIO/simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode)<br>
 3. ⭐ Starred [serversideup/spin](https://github.com/serversideup/spin)<br>
-4. ⭐ Starred [tobischulz/laravel-vue-spa-boilerplate](https://github.com/tobischulz/laravel-vue-spa-boilerplate)<br>
 <!--RECENT_ACTIVITY:end-->
