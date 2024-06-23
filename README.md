@@ -29,5 +29,4 @@
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [flashteamdev/laravel-skeleton](https://github.com/flashteamdev/laravel-skeleton)<br>
-2. ⭐ Starred [aungwinthant/apilogger](https://github.com/aungwinthant/apilogger)<br>
 <!--RECENT_ACTIVITY:end-->
