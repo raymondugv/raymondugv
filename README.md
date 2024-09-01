@@ -29,5 +29,4 @@
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [spatie/laravel-passkeys](https://github.com/spatie/laravel-passkeys)<br>
-2. ⭐ Starred [flashteamdev/laravel-skeleton](https://github.com/flashteamdev/laravel-skeleton)<br>
 <!--RECENT_ACTIVITY:end-->
