@@ -28,5 +28,9 @@
 
 ### :zap: Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [spatie/laravel-passkeys](https://github.com/spatie/laravel-passkeys)<br>
+1. ⭐ Starred [recca0120/laravel-erd](https://github.com/recca0120/laravel-erd)<br>
+2. ⬆️ Pushed 1 commit(s) to [raymondugv/my_vscode_styling](https://github.com/raymondugv/my_vscode_styling)<br>
+3. ⬆️ Pushed 1 commit(s) to [raymondugv/my_vscode_styling](https://github.com/raymondugv/my_vscode_styling)<br>
+4. 📔 Created new repository [raymondugv/my_vscode_styling](https://github.com/raymondugv/my_vscode_styling)<br>
+5. ⭐ Starred [glennraya/vscode-settings-json](https://github.com/glennraya/vscode-settings-json)<br>
 <!--RECENT_ACTIVITY:end-->
